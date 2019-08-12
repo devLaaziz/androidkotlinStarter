@@ -1,5 +1,4 @@
-# Android Kotlin Mvp Starter [![Build Status](https://travis-ci.org/androidstarters/kotlin-android-starter.svg?branch=master)](https://travis-ci.org/androidstarters/kotlin-android-starter)
-
+# Android Kotlin Mvp Boilerplate
 
 An MVP Boilerplate to save me having to create the same project over from scratch every time! :)
 
